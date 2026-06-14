@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi, I'm Pranav 👋
+
+## About Me
+
+🎓 Computer Science Student
+
+🐍 Currently learning Python and Backend Development
+
+🤖 Interested in Artificial Intelligence, Machine Learning, and AI Agents
+
+🚀 Building projects and improving my development skills every day
+
+---
+
+## Current Learning Path
+
+- Python
+- FastAPI
+- SQL & Databases
+- Git & GitHub
+- Machine Learning Fundamentals
+- AI Agents
+
+---
+
+## Goals for 2026
+
+- Build production-ready backend projects
+- Learn AI engineering fundamentals
+- Contribute to open source
+- Create a strong developer portfolio
+
+---
+
+
+*"Small improvements every day lead to big results."*
 
 <!--
 **Pranav-48381/Pranav-48381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
